@@ -1,0 +1,14 @@
+Policy is NOT correct.   Student solution:
+	policy: """
+        exit      
+        north     
+        exit
+"""
+
+   Correct solution:
+	policy: """
+        exit      
+        south     
+        exit
+"""
+
